@@ -103,3 +103,4 @@
 - key失效是什么机制
 - redis有哪些对象类型和编码类型
 
+![](redis-arch.svg)
